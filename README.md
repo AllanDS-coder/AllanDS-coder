@@ -10,15 +10,17 @@ egertonguru@gmail.com
 
 ________________________________________
 ## About Me    
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/c31ad31a-bbc7-411a-9294-7515f69b5036" />     
+    
 
 A Data Scientist & Analyst with hands-on experience in ML, Deep Learning, and Generative AI.   
 Skilled in Python and LLMs, passionate about using data and AI to solve real-world problems and drive smart decision-making.        
 
 ________________________________________
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/ec9d623e-99c7-43da-8201-ddffaa10b409" />  
+
 ## Education and Certifications     
 
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/ec9d623e-99c7-43da-8201-ddffaa10b409" />      
+    
 
       • The University of Nairobi     
        Master of Science in Data Science (Ongoing)    
