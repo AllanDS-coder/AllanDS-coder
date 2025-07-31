@@ -21,18 +21,18 @@ ________________________________________
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/ec9d623e-99c7-43da-8201-ddffaa10b409" />      
 
       • The University of Nairobi     
-      - Master of Science in Data Science (Ongoing)    
-• Lab WordQuad University (Ongoing)     
-      - Applied Data Science    
-• Egerton University     
-      - Bachelor of Science in Biochemistry    
-• Moringa School    
-      - Certificate in Data Science     
-• Phoenix Analytics Internship    
-      - Theoretical Mathematical Statistical Learning Methods   
-      - Data science-ML,Analysis, and OpenAI    
-• Africagility    
-      - Data Management, Data Storytelling, SQL, Power BI  
+       Master of Science in Data Science (Ongoing)    
+      • Lab WordQuad University (Ongoing)     
+       Applied Data Science    
+      • Egerton University     
+       Bachelor of Science in Biochemistry    
+      • Moringa School    
+        Certificate in Data Science     
+      • Phoenix Analytics Internship    
+       Theoretical Mathematical Statistical Learning Methods   
+       Data science-ML,Analysis, and OpenAI    
+      • Africagility    
+       Data Management, Data Storytelling, SQL, Power BI  
 		     
 ________________________________________
 ## Expertise       
