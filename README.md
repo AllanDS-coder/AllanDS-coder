@@ -17,7 +17,9 @@ Skilled in Python and LLMs, passionate about using data and AI to solve real-wor
 
 ________________________________________
 ## Education and Certifications     
+
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/ec9d623e-99c7-43da-8201-ddffaa10b409" />      
+
 •	The University of Nairobi     
     - Master of Science in Data Science (Ongoing)    
 •	Lab WordQuad University (Ongoing)     
