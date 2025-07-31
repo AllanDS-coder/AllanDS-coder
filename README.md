@@ -1,6 +1,6 @@
 ## Resume-
      
-![Uploading 0df9abb7-0aa6-4174-bae7-bd5eb78510c7.png…]()  
+![Uploading ChatGPT Image Jul 31, 2025, 09_38_02 PM.png…]()
 
       
 Data Scientist | Data Analyst | ML| Deep Learning| Gen AI|   
