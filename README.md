@@ -4,7 +4,7 @@
 
       
 Data Scientist | Data Analyst | ML| Deep Learning| Gen AI|   
-Python Programmer| Open Artificial Intelligence |LLM   
+Python Programmer| Open Artificial Intelligence |LLM|Writer (Academics)|Tutor        
 
 Nairobi, Nairobi County, Kenya    
 egertonguru@gmail.com     
