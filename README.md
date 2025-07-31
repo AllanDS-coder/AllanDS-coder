@@ -1,6 +1,7 @@
 ## Resume-
      
-![Uploading ChatGPT Image Jul 31, 2025, 09_38_02 PM.png…]()
+<img width="1536" height="124" alt="ChPM" src="https://github.com/user-attachments/assets/e465cfa5-14c6-4d2b-90f2-2ccb5c6c6bda" />
+
 
       
 Data Scientist | Data Analyst | ML| Deep Learning| Gen AI|   
