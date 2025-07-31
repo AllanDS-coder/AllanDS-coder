@@ -10,15 +10,15 @@ egertonguru@gmail.com
 
 ________________________________________
 ## About Me    
-<img width="226" height="226" alt="image" src="https://github.com/user-attachments/assets/c31ad31a-bbc7-411a-9294-7515f69b5036" />     
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/c31ad31a-bbc7-411a-9294-7515f69b5036" />     
 
 A Data Scientist & Analyst with hands-on experience in ML, Deep Learning, and Generative AI.   
 Skilled in Python and LLMs, passionate about using data and AI to solve real-world problems and drive smart decision-making.        
 
 ________________________________________
-## Education and Certifications 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/ec9d623e-99c7-43da-8201-ddffaa10b409" />    
-•	The University of Nairobi    
+## Education and Certifications     
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/ec9d623e-99c7-43da-8201-ddffaa10b409" />      
+•	The University of Nairobi     
     - Master of Science in Data Science (Ongoing)    
 •	Lab WordQuad University (Ongoing)     
                     - Applied Data Science    
@@ -48,11 +48,12 @@ ________________________________________
 • Data Engineering and Transformation    
 • Data Extraction and Web Scrapping    
 • Version Control and Collaboration    
-• Writing and Research (Content and Academic)    
-________________________________________
-## Tools and Stacks 
+• Writing and Research (Content and Academic)   
 
-<img width="353" height="143" alt="14" src="https://github.com/user-attachments/assets/7c2003a2-e1d5-480e-98d8-227c8d9ed6a6" />  ![1](https://github.com/user-attachments/assets/4e3c885e-a880-4939-b960-1a65e396ff69) <img width="310" height="163" alt="2" src="https://github.com/user-attachments/assets/b910f859-117b-4a0c-907a-39303dfbef3a" /> ![3](https://github.com/user-attachments/assets/5a2628eb-7b9f-4b1e-bae4-cbd42d74b29e) <img width="300" height="168" alt="4" src="https://github.com/user-attachments/assets/81eac901-9e91-4cc1-a7d7-e520aa17d86d" /> <img width="294" height="172" alt="5" src="https://github.com/user-attachments/assets/71c5d557-8498-4479-9fde-ade9a0144d12" /> <img width="284" height="177" alt="6" src="https://github.com/user-attachments/assets/8522ba94-0bd3-4a68-a148-eafb6f42a14b" /> <img width="346" height="146" alt="7" src="https://github.com/user-attachments/assets/f10db9e7-5181-4083-bf31-0a5030cbf4be" /> <img width="313" height="161" alt="8" src="https://github.com/user-attachments/assets/58e74e01-4d56-41d5-af54-fa23dcc72bfe" /> <img width="314" height="160" alt="9" src="https://github.com/user-attachments/assets/898ff544-325b-4e74-b389-3f5a87686558" /> <img width="300" height="168" alt="10" src="https://github.com/user-attachments/assets/c6660883-1fd7-4f2c-bb88-41bf909675da" /> <img width="306" height="165" alt="11" src="https://github.com/user-attachments/assets/2ef07ae3-ecad-466b-ab91-3f12c679afc5" /> <img width="208" height="242" alt="12" src="https://github.com/user-attachments/assets/0df3d93d-5617-4cc6-a2c7-20a67abcca45" /> <img width="318" height="159" alt="13" src="https://github.com/user-attachments/assets/969ab168-c064-4474-8399-f1be6e9ce4af" /> <img width="353" height="143" alt="14" src="https://github.com/user-attachments/assets/b37c794f-6a62-46ce-b125-863dde26fe9d" /> <img width="281" height="179" alt="17" src="https://github.com/user-attachments/assets/594b47b9-7dea-49a0-bf33-7c401719591a" /> <img width="335" height="150" alt="18" src="https://github.com/user-attachments/assets/2eb758b4-fa6d-4e6a-99ce-32eb6364313e" /> ![19](https://github.com/user-attachments/assets/4c0be9e9-4a30-4f83-b12e-0bb2401db310) <img width="343" height="147" alt="20" src="https://github.com/user-attachments/assets/0d6d0629-2300-4d1e-9287-ab3ab4672d62" /> 
+________________________________________
+## Tools and Stacks    
+
+<img width="150" height="150" alt="14" src="https://github.com/user-attachments/assets/7c2003a2-e1d5-480e-98d8-227c8d9ed6a6" />  ![1](https://github.com/user-attachments/assets/4e3c885e-a880-4939-b960-1a65e396ff69) <img width="310" height="163" alt="2" src="https://github.com/user-attachments/assets/b910f859-117b-4a0c-907a-39303dfbef3a" /> ![3](https://github.com/user-attachments/assets/5a2628eb-7b9f-4b1e-bae4-cbd42d74b29e) <img width="300" height="168" alt="4" src="https://github.com/user-attachments/assets/81eac901-9e91-4cc1-a7d7-e520aa17d86d" /> <img width="294" height="172" alt="5" src="https://github.com/user-attachments/assets/71c5d557-8498-4479-9fde-ade9a0144d12" /> <img width="284" height="177" alt="6" src="https://github.com/user-attachments/assets/8522ba94-0bd3-4a68-a148-eafb6f42a14b" /> <img width="346" height="146" alt="7" src="https://github.com/user-attachments/assets/f10db9e7-5181-4083-bf31-0a5030cbf4be" /> <img width="313" height="161" alt="8" src="https://github.com/user-attachments/assets/58e74e01-4d56-41d5-af54-fa23dcc72bfe" /> <img width="314" height="160" alt="9" src="https://github.com/user-attachments/assets/898ff544-325b-4e74-b389-3f5a87686558" /> <img width="300" height="168" alt="10" src="https://github.com/user-attachments/assets/c6660883-1fd7-4f2c-bb88-41bf909675da" /> <img width="306" height="165" alt="11" src="https://github.com/user-attachments/assets/2ef07ae3-ecad-466b-ab91-3f12c679afc5" /> <img width="208" height="242" alt="12" src="https://github.com/user-attachments/assets/0df3d93d-5617-4cc6-a2c7-20a67abcca45" /> <img width="318" height="159" alt="13" src="https://github.com/user-attachments/assets/969ab168-c064-4474-8399-f1be6e9ce4af" /> <img width="353" height="143" alt="14" src="https://github.com/user-attachments/assets/b37c794f-6a62-46ce-b125-863dde26fe9d" /> <img width="281" height="179" alt="17" src="https://github.com/user-attachments/assets/594b47b9-7dea-49a0-bf33-7c401719591a" /> <img width="335" height="150" alt="18" src="https://github.com/user-attachments/assets/2eb758b4-fa6d-4e6a-99ce-32eb6364313e" /> ![19](https://github.com/user-attachments/assets/4c0be9e9-4a30-4f83-b12e-0bb2401db310) <img width="343" height="147" alt="20" src="https://github.com/user-attachments/assets/0d6d0629-2300-4d1e-9287-ab3ab4672d62" /> 
 
 ________________________________________
 ## Work with me 
