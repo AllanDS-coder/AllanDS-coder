@@ -1,8 +1,6 @@
 ## Resume-
      
-![Uploading best.png…]()
-
-
+<img width="935" height="653" alt="best" src="https://github.com/user-attachments/assets/322d1e3f-196d-4f28-bb29-77864dd30777" />
 
       
 Data Scientist | Data Analyst | ML| Deep Learning| Gen AI|   
