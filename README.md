@@ -22,15 +22,20 @@ ________________________________________
 
       • The University of Nairobi     
        Master of Science in Data Science (Ongoing)    
+       
       • Lab WordQuad University (Ongoing)     
        Applied Data Science    
+       
       • Egerton University     
        Bachelor of Science in Biochemistry    
+       
       • Moringa School    
         Certificate in Data Science     
+	
       • Phoenix Analytics Internship    
        Theoretical Mathematical Statistical Learning Methods   
        Data science-ML,Analysis, and OpenAI    
+       
       • Africagility    
        Data Management, Data Storytelling, SQL, Power BI  
 		     
