@@ -40,8 +40,15 @@ ________________________________________
        Data science-ML,Analysis, and OpenAI    
        
       • Africagility    
-       Data Management, Data Storytelling, SQL, Power BI  
-		     
+       Data Management, Data Storytelling, SQL, Power BI    
+       
+________________________________________
+
+## Projects     
+      https://sentimentalanalysispilgrim-mwaaysgfzdssubzst7dba2.streamlit.app/      
+      https://github.com/AllanDS-coder/SentimentalAnalysisPilgrim/blob/master/README.md   
+
+
 ________________________________________
 ## Expertise       
 • Statistical Analysis & Data Visualization     
