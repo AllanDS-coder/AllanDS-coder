@@ -1,7 +1,8 @@
 ## Resume-
-![Background (2)](https://github.com/user-attachments/assets/ec561a35-7265-425d-97a9-c550f0a39848)     
+     
+![Uploading 0df9abb7-0aa6-4174-bae7-bd5eb78510c7.png…]()  
 
-      Onyango Omollo
+      
 Data Scientist | Data Analyst | ML| Deep Learning| Gen AI|   
 Python Programmer| Open Artificial Intelligence |LLM   
 
