@@ -1,6 +1,6 @@
 ## Resume-
      
-<img width="1536" height="124" alt="ChPM" src="https://github.com/user-attachments/assets/e465cfa5-14c6-4d2b-90f2-2ccb5c6c6bda" />
+<img width="1536" height="600" alt="ChPM" src="https://github.com/user-attachments/assets/e465cfa5-14c6-4d2b-90f2-2ccb5c6c6bda" />
 
 
       
