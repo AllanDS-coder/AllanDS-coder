@@ -45,8 +45,10 @@ ________________________________________
 ________________________________________
 
 ## Projects     
-      https://sentimentalanalysispilgrim-mwaaysgfzdssubzst7dba2.streamlit.app/      
-      https://github.com/AllanDS-coder/SentimentalAnalysisPilgrim/blob/master/README.md   
+      https://donor-analytics-dashboard-kzay7m3emrff5lwdbpvwxf.streamlit.app/   
+	  	  About Project - https://github.com/AllanDS-coder/donor-analytics-dashboard/blob/master/README.md    
+	  https://sentimentalanalysispilgrim-mwaaysgfzdssubzst7dba2.streamlit.app/       
+          About Project- https://github.com/AllanDS-coder/SentimentalAnalysisPilgrim/blob/master/README.md    
 
 
 ________________________________________
