@@ -4,7 +4,7 @@
 
       
 Data Scientist | Data Analyst | ML| Deep Learning| Gen AI|   
-Python Programmer| Open Artificial Intelligence |LLM|Writer (Academics)|Tutor        
+Python Programmer| Open Artificial Intelligence |LLM|Writer (Academics)|Tutor|Passionate Educator             
 
 Nairobi, Nairobi County, Kenya    
 egertonguru@gmail.com     
@@ -45,14 +45,16 @@ ________________________________________
 ________________________________________
 
 ## Projects     
-      https://donor-analytics-dashboard-kzay7m3emrff5lwdbpvwxf.streamlit.app/   
-	  	  About Project - https://github.com/AllanDS-coder/donor-analytics-dashboard/blob/master/README.md    
-	  https://sentimentalanalysispilgrim-mwaaysgfzdssubzst7dba2.streamlit.app/       
-          About Project- https://github.com/AllanDS-coder/SentimentalAnalysisPilgrim/blob/master/README.md    
-	  https://github.com/AllanDS-coder/Dynamic_Routing-    
-          About Project - https://github.com/AllanDS-coder/Dynamic_Routing-/blob/master/README.md     
+      1. Umrah and Hajj Sentimental Classification and Analyzer MVP      
+          -	https://sentimentalanalysispilgrim.streamlit.app/      
+		  - https://github.com/AllanDS-coder/SentimentalAnalysisPilgrim/blob/master/README.md     
 
+	2. Donor Data Management & Cultivation Strategy Analysis -MVP    
+		- https://donor-analytics-dashboard.streamlit.app/   
+		- https://github.com/AllanDS-coder/donor-analytics-dashboard/blob/master/README.md    
 
+	3. Dynamic Routing a Sales Geospatial Analysis
+		- https://github.com/AllanDS-coder/Dynamic_Routing-/blob/master/README.md
 ________________________________________
 ## Expertise       
 • Statistical Analysis & Data Visualization     
