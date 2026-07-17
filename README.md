@@ -92,53 +92,25 @@ https://github.com/AllanDS-coder/Kenya_Climate_Analytics_Dashboard
 ---
 
 # Technical Skills
+## Core Technologies
 
-## Programming Languages
+### Programming
+Python • R • SQL
 
-- Python
-- R
-- SQL
+### Machine Learning & AI
+Scikit-learn • TensorFlow • PyTorch • Hugging Face Transformers • NLP • Deep Learning • Generative AI • LLMs
 
-## Machine Learning & AI
+### Data Analysis
+Pandas • NumPy • Statistical Computing • Feature Engineering • Data Cleaning • Exploratory Data Analysis
 
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- Hugging Face Transformers
-- Deep Learning
-- Generative AI
-- Large Language Models (LLMs)
+### Visualization
+Power BI • Streamlit • R Shiny • Plotly • Matplotlib • ggplot2
 
-## Data Analytics
+### Geospatial & Analytics
+Spatial Analysis • Route Optimization • Business Intelligence • Dashboard Development • Data Storytelling
 
-- Pandas
-- NumPy
-- Statistical Computing
-- Data Cleaning
-- Feature Engineering
-- Exploratory Data Analysis
-
-## Visualization & Dashboards
-
-- Power BI
-- Streamlit
-- R Shiny
-- Plotly
-- Matplotlib
-- ggplot2
-
-## Databases
-
-- MySQL
-- SQLite
-
-## Other Tools
-
-- Git
-- GitHub
-- Jupyter Notebook
-- Quarto
-- R Markdown
+### Development
+Git • GitHub • Jupyter Notebook • Quarto • R Markdown
 
 ---
 
