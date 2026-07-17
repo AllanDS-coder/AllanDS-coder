@@ -128,7 +128,7 @@ Bachelor of Science in Biochemistry
 
 Certificate in Data Science
 
-**Phoenix Analytics**
+**Phoenix Analytics**     
 Analytical Mentorship Program- Data Science 
 
 **WorldQuant University**   
