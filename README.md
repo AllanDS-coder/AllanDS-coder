@@ -4,14 +4,9 @@
 
 I build **data-driven decision support systems** using **Python, R, SQL, Machine Learning, NLP, Geospatial Analytics, Statistical Computing, and Business Intelligence**.  
 
-My goal is to transform complex datasets into practical insights through interactive dashboards, predictive models, and AI-powered applications.   
-
-Nairobi, Kenya   
-
-**MSc Data Science** — University of Nairobi *(Ongoing)*   
+Transforming complex datasets into practical insights through interactive dashboards, predictive models, and AI-powered applications.   
  
 **Email:** egertonguru@gmail.com   
-
 ---
 
 # About Me    
@@ -74,7 +69,6 @@ Git • GitHub • Jupyter Notebook • Quarto • R Markdown
 
 Email: **egertonguru@gmail.com**
 
-Nairobi, Kenya
 
 Thanks for visiting my profile! Feel free to explore my repositories or connect if you'd like to collaborate on data science, machine learning, analytics, or research projects.
 
