@@ -1,4 +1,4 @@
-# Hi there, I'm Omollo A.
+# Hi there,
 
 ### Data Scientist | Machine Learning Engineer | Data Analyst | AI
 
